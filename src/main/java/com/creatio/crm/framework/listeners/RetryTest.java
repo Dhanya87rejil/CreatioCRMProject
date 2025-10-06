@@ -1,4 +1,4 @@
-package com.creatio.crm.frameworks.listeners;
+package com.creatio.crm.framework.listeners;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
