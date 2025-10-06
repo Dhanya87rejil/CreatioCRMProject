@@ -1,0 +1,11 @@
+package com.creatio.crm.framework.utilities;
+
+public class ProjectPath {
+
+	public static void main(String[] args) {
+
+		System.out.println(System.getProperty("user.dir"));
+		System.out.println(System.getProperty("user.home"));
+	}
+
+}
